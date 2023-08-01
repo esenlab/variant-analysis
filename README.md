@@ -1,5 +1,7 @@
 # variant-analysis
+
 Tools to examine and analyze population genomic data
+Related work is: https://doi.org/10.1016/j.bpj.2022.12.012
 
 Protocol: Generation of a Figure Comparing Genomic Variant Types to Fractional Solvent Accessible Surface Area (SASA)
 *Objective:* This protocol aims to generate a figure that compares the count of genomic variant types at a specific amino acid sequence position in a gene to the degree of its occlusion form surface water in the structure. Fractional SASA is used as an indicator of how deeply an amino acid is embedded in the structure. The produced figure shows a direct correlation between an increased fractional SASA and the number of variant types at a specific position.
