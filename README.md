@@ -27,3 +27,6 @@ Protocol: Generation of a Figure Comparing Genomic Variant Types to Fractional S
 6. Finally, execute the MATLAB script.
 
 *Caution:* Please be aware that the gnomAD variant data CSV includes variants from the noncanonical transcript. These variants are indicated in the browser window with daggers next to the HVGS consequence but are not present in the downloaded CSV.
+
+Update 2/16/2025
+ScriptSASASVariantAnalysis20241023 includes support for gnomad 4.1 files. The sample gnomAD4.1..._flagGONE csv file and 7LP9_SASA have been added for demonstration purposes. The output mirrors the figure 1 plot of our analysis in Wulffraat et al. (2025) in BioArxiv. To switch between gnomAD datasets (2.1 and 4.1) care must be taken to adjust the script as described in the provided annontations for the csv data.
